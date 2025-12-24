@@ -11,16 +11,16 @@ Sales performance dashboard built using Tableau to analyse sales, profit, and qu
 - Subcategory performance
 
 ## Dashboard Overview
-![Sales Dashboard](screenshots/sales_dashboard_overview.png)
+![Sales Dashboard](screenshots/Sales_dashboard.png)
 
 ## KPI – Sales
-![KPI Sales](screenshots/kpi_sales.png)
+![KPI Sales](screenshots/KPI_sales.png)
 
 ## KPI – Profit
-![KPI Profit](screenshots/kpi_profit.png)
+![KPI Profit](screenshots/KPI_profit.png)
 
 ## KPI – Quantity
-![KPI Quantity](screenshots/kpi_quantity.png)
+![KPI Quantity](screenshots/KPI_quantity.png)
 
 ## Tools Used
 - Tableau
